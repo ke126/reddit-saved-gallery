@@ -3,11 +3,15 @@
 [![ci](https://github.com/ke126/reddit-saved-gallery/actions/workflows/ci.yaml/badge.svg)](https://github.com/Ke126/reddit-saved-gallery/actions/workflows/ci.yaml)
 [![build](https://github.com/ke126/reddit-saved-gallery/actions/workflows/deploy.yaml/badge.svg)](https://github.com/Ke126/reddit-saved-gallery/actions/workflows/deploy.yaml)
 
-[Reddit Saved Gallery](https://savedgallery.net) is a SaaS web application allowing users to import, query, and manage their saved posts and media on Reddit.
+![preview](./docs/preview.png)
+
+[Reddit Saved Gallery](https://savedgallery.net) is a SaaS web application allowing users to import, archive, view, and manage their saved posts and media on Reddit.
 
 This repository contains all the necessary services to host Reddit Saved Gallery. For quick start instructions to run Reddit Saved Gallery locally, see [Getting started](#getting-started). For full deployment instructions to a production server, see [Deploying to production](#deploying-to-production).
 
 For more details about the application, including some background on its architecture and design, check out [Reddit Saved Gallery: A Scalable Web Application](https://www.linkedin.com/pulse/reddit-saved-gallery-scalable-web-application-kevin-chen-vztde/) on LinkedIn.
+
+![architecture](./docs/architecture.png)
 
 ## Table of contents
 
